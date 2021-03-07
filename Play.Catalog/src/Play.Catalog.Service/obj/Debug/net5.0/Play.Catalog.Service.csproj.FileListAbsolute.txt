@@ -27,3 +27,12 @@ C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\
 C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
 C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\samet\Desktop\projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
